@@ -1,0 +1,282 @@
+[
+  {
+    "id": 1,
+    "nombre": "Alavés",
+    "escudo": "ala",
+    "stats": {
+      "posicion": 4,
+      "jugados": 12,
+      "ganados": 7,
+      "empatados": 2,
+      "perdidos": 3,
+      "golesAFavor": 17,
+      "golesEnContra": 12
+    }
+  },
+  {
+    "id": 2,
+    "nombre": "Athletic de Bilbao",
+    "escudo": "ath",
+    "stats": {
+      "posicion": 17,
+      "jugados": 12,
+      "ganados": 1,
+      "empatados": 7,
+      "perdidos": 4,
+      "golesAFavor": 13,
+      "golesEnContra": 19
+    }
+  },
+  {
+    "id": 3,
+    "nombre": "Atlético de Madrid",
+    "escudo": "atm",
+    "stats": {
+      "posicion": 3,
+      "jugados": 12,
+      "ganados": 6,
+      "empatados": 5,
+      "perdidos": 1,
+      "golesAFavor": 16,
+      "golesEnContra": 8
+    }
+  },
+  {
+    "id": 4,
+    "nombre": "Barcelona",
+    "escudo": "bar",
+    "stats": {
+      "posicion": 1,
+      "jugados": 12,
+      "ganados": 7,
+      "empatados": 3,
+      "perdidos": 2,
+      "golesAFavor": 34,
+      "golesEnContra": 18
+    }
+  },
+  {
+    "id": 5,
+    "nombre": "Betis",
+    "escudo": "bet",
+    "stats": {
+      "posicion": 12,
+      "jugados": 12,
+      "ganados": 4,
+      "empatados": 4,
+      "perdidos": 4,
+      "golesAFavor": 12,
+      "golesEnContra": 15
+    }
+  },
+  {
+    "id": 6,
+    "nombre": "Celta",
+    "escudo": "cel",
+    "stats": {
+      "posicion": 14,
+      "jugados": 12,
+      "ganados": 3,
+      "empatados": 5,
+      "perdidos": 4,
+      "golesAFavor": 22,
+      "golesEnContra": 20
+    }
+  },
+  {
+    "id": 7,
+    "nombre": "Eibar",
+    "escudo": "eib",
+    "stats": {
+      "posicion": 13,
+      "jugados": 12,
+      "ganados": 4,
+      "empatados": 3,
+      "perdidos": 5,
+      "golesAFavor": 12,
+      "golesEnContra": 18
+    }
+  },
+  {
+    "id": 8,
+    "nombre": "Espanyol",
+    "escudo": "esp",
+    "stats": {
+      "posicion": 5,
+      "jugados": 12,
+      "ganados": 6,
+      "empatados": 3,
+      "perdidos": 3,
+      "golesAFavor": 16,
+      "golesEnContra": 10
+    }
+  },
+  {
+    "id": 9,
+    "nombre": "Getafe",
+    "escudo": "get",
+    "stats": {
+      "posicion": 11,
+      "jugados": 12,
+      "ganados": 4,
+      "empatados": 4,
+      "perdidos": 4,
+      "golesAFavor": 11,
+      "golesEnContra": 10
+    }
+  },
+  {
+    "id": 10,
+    "nombre": "Girona",
+    "escudo": "gir",
+    "stats": {
+      "posicion": 9,
+      "jugados": 12,
+      "ganados": 4,
+      "empatados": 5,
+      "perdidos": 3,
+      "golesAFavor": 13,
+      "golesEnContra": 14
+    }
+  },
+  {
+    "id": 11,
+    "nombre": "Huesca",
+    "escudo": "hue",
+    "stats": {
+      "posicion": 20,
+      "jugados": 12,
+      "ganados": 1,
+      "empatados": 3,
+      "perdidos": 8,
+      "golesAFavor": 10,
+      "golesEnContra": 25
+    }
+  },
+  {
+    "id": 12,
+    "nombre": "Leganés",
+    "escudo": "leg",
+    "stats": {
+      "posicion": 18,
+      "jugados": 12,
+      "ganados": 2,
+      "empatados": 4,
+      "perdidos": 6,
+      "golesAFavor": 9,
+      "golesEnContra": 16
+    }
+  },
+  {
+    "id": 13,
+    "nombre": "Levante",
+    "escudo": "lev",
+    "stats": {
+      "posicion": 8,
+      "jugados": 12,
+      "ganados": 5,
+      "empatados": 2,
+      "perdidos": 5,
+      "golesAFavor": 18,
+      "golesEnContra": 19
+    }
+  },
+  {
+    "id": 14,
+    "nombre": "Rayo Vallecano",
+    "escudo": "ray",
+    "stats": {
+      "posicion": 19,
+      "jugados": 12,
+      "ganados": 1,
+      "empatados": 4,
+      "perdidos": 7,
+      "golesAFavor": 14,
+      "golesEnContra": 25
+    }
+  },
+  {
+    "id": 15,
+    "nombre": "Real Madrid",
+    "escudo": "rmd",
+    "stats": {
+      "posicion": 6,
+      "jugados": 12,
+      "ganados": 6,
+      "empatados": 2,
+      "perdidos": 4,
+      "golesAFavor": 20,
+      "golesEnContra": 16
+    }
+  },
+  {
+    "id": 16,
+    "nombre": "Real Sociedad",
+    "escudo": "rso",
+    "stats": {
+      "posicion": 10,
+      "jugados": 12,
+      "ganados": 4,
+      "empatados": 4,
+      "perdidos": 4,
+      "golesAFavor": 15,
+      "golesEnContra": 14
+    }
+  },
+  {
+    "id": 17,
+    "nombre": "Sevilla",
+    "escudo": "sev",
+    "stats": {
+      "posicion": 2,
+      "jugados": 12,
+      "ganados": 7,
+      "empatados": 2,
+      "perdidos": 3,
+      "golesAFavor": 24,
+      "golesEnContra": 14
+    }
+  },
+  {
+    "id": 18,
+    "nombre": "Valencia",
+    "escudo": "val",
+    "stats": {
+      "posicion": 15,
+      "jugados": 12,
+      "ganados": 2,
+      "empatados": 8,
+      "perdidos": 2,
+      "golesAFavor": 8,
+      "golesEnContra": 9
+    }
+  },
+  {
+    "id": 19,
+    "nombre": "Valladolid",
+    "escudo": "vll",
+    "stats": {
+      "posicion": 7,
+      "jugados": 12,
+      "ganados": 4,
+      "empatados": 5,
+      "perdidos": 3,
+      "golesAFavor": 9,
+      "golesEnContra": 9
+    }
+  },
+  {
+    "id": 20,
+    "nombre": "Villareal",
+    "escudo": "vil",
+    "stats": {
+      "posicion": 16,
+      "jugados": 12,
+      "ganados": 2,
+      "empatados": 5,
+      "perdidos": 5,
+      "golesAFavor": 11,
+      "golesEnContra": 13
+    }
+  }
+]
